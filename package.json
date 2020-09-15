@@ -1,0 +1,26 @@
+{
+  "name": "closures-scope",
+  "version": "1.0.0",
+  "description": "Exercises from the course of closures and scope in JS in Platzi Master Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoiFuries/Closures-Scope.git"
+  },
+  "keywords": [
+    "Js",
+    "Platzi",
+    "Master",
+    "scope",
+    "closures"
+  ],
+  "author": "RoiFuries roi.furies@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoiFuries/Closures-Scope/issues"
+  },
+  "homepage": "https://github.com/RoiFuries/Closures-Scope#readme"
+}
